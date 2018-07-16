@@ -7,7 +7,6 @@
 Name:           python-%{pypi_name}
 Version:        1.3.2.0
 Release:        1%{?dist}
-Provides:       python2-%{pypi_name} = %{version}-%{release}
 Summary:        FilseSaver (XStatic packaging standard)
 
 License:        MIT
